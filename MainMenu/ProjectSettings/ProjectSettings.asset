@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 15
-  productGUID: 675952525e280af4e89673447ab3483d
+  productGUID: c0a44b4acec311345afc86222043173e
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: NewMenu
+  productName: MainMenu
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -648,8 +648,8 @@ PlayerSettings:
     UNet: 1
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
-  cloudProjectId: 311ec7e6-f765-49a4-bbe9-721d9dbc91ad
-  projectName: NewMenu
+  cloudProjectId: b8e3a67c-78aa-4b78-ac35-1844a6fad566
+  projectName: MainMenu
   organizationId: mahrukhsm
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
